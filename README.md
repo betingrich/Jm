@@ -43,7 +43,7 @@
        <p align="left"><a href="https://signup.heroku.com"> <img src="https://img.shields.io/badge/heroku%20Account-purple?style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>
 
 #### 2. Deploy Now.
-   <p align="left"><a href="https://heroku.com/deploy?template=https://github.com/PRINCE-GDS/THE-PRINCE-BOT"> <img src="https://img.shields.io/badge/Heroku%20Deploy-purple?style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>
+   <p align="left"><a href="https://heroku.com/deploy?template=https://github.com/ROMANO7/PRINCEBRAVE"> <img src="https://img.shields.io/badge/Heroku%20Deploy-purple?style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>
 
 
 
@@ -55,7 +55,7 @@
 
 2. Now Deploy
     <br>
-<p align="left"><a href="https://repl.it/github/PRINCE-GDS/THE-PRINCE-BOT"> <img src="https://img.shields.io/badge/replit%20Deploy-purple?style=for-the-badge&logo=replit" width="220" height="38.45"/></a></p>
+<p align="left"><a href="https://repl.it/github.com/ROMANO7/PRINCEBRAVE"> <img src="https://img.shields.io/badge/replit%20Deploy-purple?style=for-the-badge&logo=replit" width="220" height="38.45"/></a></p>
 
 <h2 align="left">DEPLOY TO KOYEB</h2> 
 
