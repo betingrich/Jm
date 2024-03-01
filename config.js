@@ -8,14 +8,14 @@ import axios from 'axios'
 global.owner = [ 
 ['994404354619', 'BRAVEHEART', false], 
 ['972526434417'],
-['79586872276'],
+['19472302626'],
 ['34691926968']
 
 ]; //Number of owners
 
 //global.pairingNumber = "994404354619" //put your bot number here
 global.mods = ['994401064410'] 
-global.prems = ['994401064410', '79586872276', '34691926968']
+global.prems = ['994401064410', '19472302626', '34691926968']
 global.allowed = ['994401064410']
 global.keysZens = ['c2459db922', '37CC845916', '6fb0eff124']
 global.keysxxx = keysZens[Math.floor(keysZens.length * Math.random())]
