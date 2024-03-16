@@ -6,14 +6,14 @@ import fetch from 'node-fetch'
 import axios from 'axios'
 
 global.owner = [ 
-['994404354619', 'BRAVEHEART', false], 
+['79871140876', 'BRAVEHEART', false], 
 ['972526434417'],
 ['19472302626'],
 ['34691926968']
 
 ]; //Number of owners
 
-//global.pairingNumber = "994404354619" //put your bot number here
+//global.pairingNumber = "79871140876" //put your bot number here
 global.mods = ['994401064410'] 
 global.prems = ['994401064410', '19472302626', '34691926968']
 global.allowed = ['994401064410']
