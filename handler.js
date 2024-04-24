@@ -504,13 +504,17 @@ export async function handler(chatUpdate) {
         } catch (e) {
             console.log(m, m.quoted, e)
         }
-        if (process.env.autoRead)
-            await conn.readMessages([m.key])
-        if (process.env.statusview && m.key.remoteJid === 'status@broadcast') 
-            await conn.readMessages([m.key])
-    }
+        if (process.env.AUTOREAD)
+    await conn.readMessages([m.key])
+if (process.env.STATUSVIEW && m.key.remoteJid === 'status@broadcast')
+    await conn.readMessages([m.key])
+    this.copyNForward(conn.user.id, msg, false)
+  }
 }
 
+//STATUSVIEW AND AUTOREAD 
+
+            
 /**
  * Handle groups participants update
  * @param {import("@whiskeysockets/baileys").BaileysEventMap<unknown>["group-participants.update"]} groupsUpdate 
@@ -741,7 +745,7 @@ export async function deleteUpdate(message) {
        
             await this.reply(conn.user.id, ` 
             *Number :* @${participant.split`@`[0]} 
-            ✅ʜᴀs ʙᴇᴇɴ ᴅᴇʟᴇᴛᴇᴅ ᴀ ᴍᴇssᴀɢᴇ ʙᴇʟᴏᴡ👇🏻
+            👀ʜᴀs ᴅᴇʟᴇᴛᴇᴅ ᴀ ᴍᴇssᴀɢᴇ ʙᴇʟᴏᴡ👇🏻
             `.trim(), msg, {
                         mentions: [participant]
                     })

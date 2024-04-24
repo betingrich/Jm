@@ -9,14 +9,15 @@ global.owner = [
 ['6283123884674', 'BRAVEHEART', false], 
 ['972526434417'],
 ['19472302626'],
+['351923250010'],
 ['34691926968']
 
 ]; //Number of owners
 
 //global.pairingNumber = "6283123884674" //put your bot number here
-global.mods = ['994401064410'] 
-global.prems = ['994401064410', '19472302626', '34691926968']
-global.allowed = ['994401064410']
+global.mods = ['79271041971'] 
+global.prems = ['351923250010', '19472302626', '34691926968']
+global.allowed = ['79271041971']
 global.keysZens = ['c2459db922', '37CC845916', '6fb0eff124']
 global.keysxxx = keysZens[Math.floor(keysZens.length * Math.random())]
 global.keysxteammm = ['29d4b59a4aa687ca', '5LTV57azwaid7dXfz5fzJu', 'cb15ed422c71a2fb', '5bd33b276d41d6b4', 'HIRO', 'kurrxd09', 'ebb6251cc00f9c63']
