@@ -1,6 +1,6 @@
  <p align="center">  
   <a href="">
-    <img alt="PRINCE" width="600" height="350" src="https://i.imgur.com/iI086tX.jpeg">
+    <img alt="PRINCE" width="600" height="350" src="https://telegra.ph/file/261d4d2664d35a452e57a.jpg">
   </a>
 </p>
 
@@ -17,7 +17,7 @@
 <a href="https://github.com/PRINCE-GDS/THE-PRINCE-BOT/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/PRINCE-GDS/THE-PRINCE-BOT?label=Watching&style=social"></a>
 </p>
  
- <h1 align="center">𝗣𝗥𝗜𝗡𝗖𝗘-𝗠𝗗-𝗕𝗢𝗧</h1>
+ <h1 align="center">RUSH-𝗠𝗗-𝗕𝗢𝗧</h1>
 
 ****
 
@@ -26,7 +26,7 @@
 
 
 <p align="left">
-<a href="https://gd-sdeploy.vercel.app/PRINCE-MD-WEB-main/projects/index.html"><img height= "70" title="Author" src="https://img.shields.io/badge/𝗣𝗥𝗜𝗡𝗖𝗘 𝗕𝗢𝗧 𝗔𝗟𝗟 𝗗𝗘𝗣𝗟𝗢𝗬𝗠𝗘𝗡𝗧𝗦-032B44?style=for-the-badge&logo=vercel"></a>
+<a href="https://gd-sdeploy.vercel.app/PRINCE-MD-WEB-main/projects/index.html"><img height= "70" title="Author" src="https://img.shields.io/badge/𝗥𝗨𝗦𝗛 𝗕𝗢𝗧 𝗔𝗟𝗟 𝗗𝗘𝗣𝗟𝗢𝗬𝗠𝗘𝗡𝗧𝗦-032B44?style=for-the-badge&logo=vercel"></a>
 <p/>
 
 
