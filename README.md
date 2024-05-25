@@ -7,7 +7,7 @@
 
 
 <p align="center">
-<a href="https://github.com/RUSH-GDS/THE-RUSH"><img title="Author" src="https://telegra.ph/file/956b3141999d8c79fd826.jpg/THE RUSH BOT-black?style=for-the-badge&logo=github"></a>
+<a href="https://github.com/PRINCE-GDS/THE-RUSH"><img title="Author" src="https://img.shields.io/badge/THE RUSH BOT-black?style=for-the-badge&logo=github"></a>
 <p/>
 
 
